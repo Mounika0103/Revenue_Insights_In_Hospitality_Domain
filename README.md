@@ -15,10 +15,11 @@ Required Python packages (listed in requirements.txt)
 Setup
 Clone this repository to your local machine:
 
-bash
+```bash
 Copy code
 git clone https://github.com/yourusername/revenue-insights-hospitality.git
-cd revenue-insights-hospitality
+cd revenue-insights-hospitality```
+
 Create a virtual environment (recommended):
 
 bash
