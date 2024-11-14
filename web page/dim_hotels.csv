@@ -1,0 +1,51 @@
+hotel_id,hotel_name,city,star_rating,country
+1,Hotel_1,San Francisco,5,USA
+2,Hotel_2,Los Angeles,5,USA
+3,Hotel_3,Chicago,4,USA
+4,Hotel_4,New York,5,USA
+5,Hotel_5,San Francisco,3,USA
+6,Hotel_6,Chicago,3,USA
+7,Hotel_7,San Francisco,5,USA
+8,Hotel_8,Denver,5,USA
+9,Hotel_9,Miami,4,USA
+10,Hotel_10,New York,4,USA
+11,Hotel_11,Chicago,3,USA
+12,Hotel_12,Chicago,5,USA
+13,Hotel_13,Miami,4,USA
+14,Hotel_14,San Francisco,3,USA
+15,Hotel_15,Denver,5,USA
+16,Hotel_16,Denver,3,USA
+17,Hotel_17,Chicago,5,USA
+18,Hotel_18,San Francisco,4,USA
+19,Hotel_19,Los Angeles,4,USA
+20,Hotel_20,San Francisco,4,USA
+21,Hotel_21,San Francisco,3,USA
+22,Hotel_22,Chicago,3,USA
+23,Hotel_23,Miami,5,USA
+24,Hotel_24,Chicago,4,USA
+25,Hotel_25,San Francisco,5,USA
+26,Hotel_26,Austin,3,USA
+27,Hotel_27,Miami,3,USA
+28,Hotel_28,Chicago,4,USA
+29,Hotel_29,Austin,5,USA
+30,Hotel_30,Miami,4,USA
+31,Hotel_31,Denver,3,USA
+32,Hotel_32,Los Angeles,4,USA
+33,Hotel_33,Los Angeles,4,USA
+34,Hotel_34,Miami,5,USA
+35,Hotel_35,Denver,5,USA
+36,Hotel_36,Austin,4,USA
+37,Hotel_37,Miami,5,USA
+38,Hotel_38,Denver,5,USA
+39,Hotel_39,Chicago,3,USA
+40,Hotel_40,Los Angeles,5,USA
+41,Hotel_41,Austin,4,USA
+42,Hotel_42,Chicago,4,USA
+43,Hotel_43,Austin,5,USA
+44,Hotel_44,Los Angeles,3,USA
+45,Hotel_45,Austin,3,USA
+46,Hotel_46,Los Angeles,5,USA
+47,Hotel_47,San Francisco,5,USA
+48,Hotel_48,Austin,4,USA
+49,Hotel_49,San Francisco,5,USA
+50,Hotel_50,Los Angeles,5,USA
